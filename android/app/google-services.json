@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567877567098",
+    "project_id": "micro-doctor",
+    "storage_bucket": "micro-doctor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567877567098:android:d5f9e678906c71c9e531c3",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567877567098-np20f3b7obbgeahs9l7qnvqpgmnajvhm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxQGNnVm1eRR05oxHtMFAqnVRhKRLN8Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567877567098-np20f3b7obbgeahs9l7qnvqpgmnajvhm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
